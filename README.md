@@ -1,6 +1,6 @@
 # Scenario and Budget-vs-Actual Model in Excel
 
-**Author: Anurag Moyal** · Data Analytics Portfolio Project
+Author: Anurag Moyal
 
 A finance workbook for a fictional UK B2B software company (**Northlight Analytics Ltd**): a driver-based **three-scenario forecast**, a **locked budget** with **budget-vs-actual variance analysis**, a **dashboard**, and every assumption documented. The workbook is `Northlight_Scenario_Budget_Model.xlsx` (Excel 2016 or later; no macros).
 
